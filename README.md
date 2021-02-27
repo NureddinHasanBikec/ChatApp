@@ -28,7 +28,7 @@
 |--------------|:--------:|:--------------------------------------------------------------:|
 |<img src="visuals/John sent a new message.PNG" height="400"  width="200"> |<img src="visuals/Hernandes sent a new message.PNG" height="400"  width="200">| <img src="visuals/Change topic.gif" height="400"  width="200">|
 
-| Sign Out | Error Reporting    | 
+| Sign Out | Error Reporting    |   |
 |--------------|:--------:|:--------------------------------------------------------------:|
 |<img src="visuals/Sign out.gif" height="400"  width="200"> |<img src="visuals/Error reporting.PNG" height="400"  width="200">| 
 
