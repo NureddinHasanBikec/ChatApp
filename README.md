@@ -22,15 +22,20 @@
 
 | Login | Sign Up     | Select Topic  |
 |--------------|:--------:|:--------------------------------------------------------------:|
-|<img src="visuals/loginPage.PNG" height="400" width="250"> |<img src="visuals/signUp page.PNG" height="400"  width="250">| <img src="visuals/selectTopicPage.PNG" height="400"  width="250">|
+|<img src="visuals/loginPage.PNG" height="400" width="200"> |<img src="visuals/SignUp page.PNG" height="400"  width="200">| <img src="visuals/selectTopicPage.PNG" height="400"  width="200">|
 
 | John sent a message | Hernandes sent a new message     | Change Topic  |
 |--------------|:--------:|:--------------------------------------------------------------:|
-|<img src="visuals/John sent a new message.PNG" height="400"  width="250"> |<img src="visuals/Hernandes sent a new message.PNG" height="400"  width="250">| <img src="visuals/Change topic.gif" height="400"  width="250">|
+|<img src="visuals/John sent a new message.PNG" height="400"  width="200"> |<img src="visuals/Hernandes sent a new message.PNG" height="400"  width="200">| <img src="visuals/Change topic.gif" height="400"  width="200">|
 
 | Sign Out | Error Reporting    | 
 |--------------|:--------:|:--------------------------------------------------------------:|
-|<img src="visuals/Sign out.gif" height="400"  width="180"> |<img src="visuals/Error reporting.PNG" height="400"  width="180">| 
+|<img src="visuals/Sign out.gif" height="400"  width="200"> |<img src="visuals/Error reporting.PNG" height="400"  width="200">| 
+
+ ### Sample firebase usage 
+  |  Users | Realtime Database | 
+  |--------------|:--------:|
+  |<img src="visuals/Authentication.PNG" width="500"> | <img src="visuals/Realtime Database.PNG" width="500"> |
 
 
 ### Built With
